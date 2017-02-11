@@ -1,2 +1,3 @@
 # hello-world
-First time for everything
+First time for everything...
+I've been working on learning to code and am looking forward to building interesting projects.
